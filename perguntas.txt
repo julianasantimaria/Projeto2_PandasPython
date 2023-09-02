@@ -1,0 +1,4 @@
+- Qual cliente mais comprou produtos? ( informar nome do cliente, itens comprados e valor total )
+- Qual a média de idade dos usuarios que compram para cada produto?
+- Quantas vendas por mês e qual o valor total de vendas de cada mes?
+- Relatório de quais meses tiveram mais quantidade vendas do tipo "Online" do que "In-Store"
